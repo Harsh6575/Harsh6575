@@ -26,6 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh6575&" alt="harsh6575" /></p>
 <h1>Some of my projects are:-  </h1>
 <p>https://chatgpt-next-js-clone-harsh6575.vercel.app/</p>
+<p>https://hotel-reservation-harsh6575.vercel.app/</p>
 <p> https://disney-plus-clone-6575.netlify.app </p>
 <p>https://tesla-landing-page-6575.netlify.app/ </p>
 <p> https://food-app-harsh6575.netlify.app </p>
