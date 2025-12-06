@@ -34,23 +34,12 @@ I enjoy working on **backend systems, developer tooling, and performance-oriente
 
 ## 🧰 Tech Stack
 
-Languages:
-TypeScript • JavaScript • Python • Java
-
-Frontend:
-Next.js • React.js • Tailwind CSS • Zod
-
-Backend:
-Node.js • Express.js • Django • FastAPI • Flask
-
-Databases:
-PostgreSQL • MongoDB • MySQL • Redis
-
-Tools & DevOps:
-Docker • Git • GitHub • Bitbucket • Vercel • Netlify
-
-Libraries:
-Prisma • Pandas • NumPy
+- Languages: TypeScript • JavaScript • Python • Java
+- Frontend: Next.js • React.js • Tailwind CSS • Zod
+- Backend: Node.js • Express.js • Django • FastAPI • Flask
+- Databases: PostgreSQL • MongoDB • MySQL • Redis
+- Tools & DevOps: Docker • Git • GitHub • Bitbucket • AWS • SonarQube •Vercel • Netlify
+- Libraries: Prisma • Pandas • NumPy
 
 ---
 
