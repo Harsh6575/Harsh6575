@@ -1,25 +1,26 @@
 # Harsh Vansjaliya
 
-**Software Developer • Backend-leaning Full Stack Engineer**
+**Full Stack Developer**
 
-I build clean, scalable systems using **TypeScript, Node.js, Python, and modern frontend frameworks.** Previously at Algoacharya (trading-tech startup), where I worked end-to-end on real-time dashboards and frontend architecture.
+I'm currently working as a Full Stack Developer, building end-to-end products with React, Next.js, Node.js, and modern tooling. Previously, I worked on a real-time trading platform, focusing on frontend architecture and dashboards with some backend involvement.
 
-I enjoy working on **backend systems, developer tooling, and performance-oriented apps.**
+I enjoy working on **full-stack systems, workflow automation, and clean, well-tested UI/backend architecture.**
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I'm Working On
 
-- Backend + system design (Node.js, TypeScript, FastAPI, Django)
-- Scalable architecture, testing, and clean code practices
-- Side projects around automation, dashboards, and tooling
+- Full-stack development with React, Next.js, TypeScript, and Node.js
+- Workflow automation and integrations with n8n
+- Building UI systems with shadcn/ui, MUI, and custom component libraries
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Backend (Node.js, PostgreSQL, Redis)
-- Django + FastAPI for production-grade Python services
+- Scaling full-stack apps with PostgreSQL, MongoDB, and Docker
+- Deepening automation workflows with n8n
+- System design for production-grade full-stack systems
 
 ---
 
@@ -28,17 +29,19 @@ I enjoy working on **backend systems, developer tooling, and performance-oriente
 - Next.js
 - React.js
 - TypeScript
-- Backend architecture
+- Node.js
+- Full-stack architecture
 
 ---
 
 ## 🧰 Tech Stack
 
 - Languages: TypeScript • JavaScript • Python • Java
-- Frontend: Next.js • React.js • Tailwind CSS • Zod
+- Frontend: Next.js • React.js • Tailwind CSS • shadcn/ui • MUI • Zod
 - Backend: Node.js • Express.js • Django • FastAPI • Flask
 - Databases: PostgreSQL • MongoDB • MySQL • Redis
-- Tools & DevOps: Docker • Git • GitHub • Bitbucket • AWS • SonarQube •Vercel • Netlify
+- Automation: n8n
+- Tools & DevOps: Docker • Git • GitHub • Bitbucket • AWS • SonarQube • Vercel • Netlify
 - Libraries: Prisma • Pandas • NumPy
 
 ---
